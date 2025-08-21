@@ -1,7 +1,5 @@
 <!-- Banner -->
-<div align="center">
-  <img src="./assets/banner.png" alt="Umer Farooq Banner" width="100%" />
-</div>
+![Banner](assets/banner.png)
 
 <h1 align="center">Hi 👋, I'm Umer Farooq</h1>
 <h3 align="center">PHP | WordPress | CodeIgniter | Backend Developer | Web Solutions Expert</h3>

@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="./assets/banner.png" alt="Umer Farooq Banner" width="100%;" style="border-radius:5px;" />
+  <img src="./assets/banner.png" alt="Umer Farooq Banner" width="100%" style="border-radius: 5px;" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Umer Farooq</h1>
